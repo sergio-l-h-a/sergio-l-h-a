@@ -42,6 +42,9 @@ Conhecimentos básicos em:
 ------------------------
 
 ![Sergio-L-H-A GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-l-h-a&theme=tokyonight&show_icons=true)
+
+------------------------
+
 Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir como desenvolvedor. Cada projeto que compartilho aqui é parte da minha jornada como autodidata.
 
 
