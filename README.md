@@ -29,9 +29,20 @@ Conhecimentos básicos em:
 
 | Cursos | Certificados |
 |------------|----------|
-| JavaScript  | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=f0cc8e2ea6)
-| HTML  | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=156702&cert-nonce=d7131ed21e)
-| Python | <p align="center">
+| JavaScript  | 
+<p align="center">
+  <a href="https://www.cursoemvideo.com/certificates" target="_blank">
+    <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
+  </a>
+</p>
+| HTML  | 
+<p align="center">
+  <a href="https://www.cursoemvideo.com/certificates" target="_blank">
+    <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
+  </a>
+</p>
+| Python | 
+<p align="center">
   <a href="https://www.cursoemvideo.com/certificates" target="_blank">
     <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
   </a>
