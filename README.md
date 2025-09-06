@@ -31,7 +31,7 @@ Conhecimentos básicos em:
 |------------|----------|
 | JavaScript  | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=f0cc8e2ea6)
 | HTML  | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=156702&cert-nonce=d7131ed21e)
-| Python | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=26540&cert-nonce=7e8612cd5f)
+| Python | [Certificado](https://www.cursoemvideo.com/certificates/certificado/)
 
 📜 **DIO.me** – Cursos práticos em tecnologias modernas e projetos aplicados
 | Cursos | Certificados |
