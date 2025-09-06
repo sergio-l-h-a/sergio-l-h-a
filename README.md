@@ -22,7 +22,6 @@ Conhecimentos básicos em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px">
 </p>
----
 
 ## 🎓 Certificações
 
@@ -34,26 +33,22 @@ Conhecimentos básicos em:
 | HTML  | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=156702&cert-nonce=d7131ed21e)
 | Python | [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=26540&cert-nonce=7e8612cd5f)
 
----
-
 📜 **DIO.me** – Cursos práticos em tecnologias modernas e projetos aplicados
 | Cursos | Certificados |
 |------------|----------|
 | Importação e Exportação com JavaScript | [Certificado](https://hermes.dio.me/certificates/NDMA6TS9.pdf)
 | Consolide Seu Conhecimento com Desafios de Código JavaScript | [Certificado](https://hermes.dio.me/certificates/QKXE0ATU.pdf)
 
----
-
 ## 📂 Projetos em Destaque
 
 - [cadastro-profissional](https://github.com/sergio-l-h-a/cadastro-profissional): Sistema simples e eficiente para registrar e gerenciar informações de pessoas.
 - [meu-repositorio-de-autenticacoes](https://github.com/sergio-l-h-a/meu-repositorio-de-autenticacoes): Testes de autenticação para aplicações web.
 
----
+***
 
 ![Sergio-L-H-A GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-l-h-a&theme=tokyonight&show_icons=true)
 
----
+***
 
 Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir como desenvolvedor. Cada projeto que compartilho aqui é parte da minha jornada como autodidata.
 
