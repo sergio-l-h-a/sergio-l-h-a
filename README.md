@@ -33,7 +33,7 @@ Conhecimentos básicos em:
 
 <p align="center">
   <a href="https://www.cursoemvideo.com/certificates" target="_blank">
-    <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   </a>
 </p>
 | HTML  | 
