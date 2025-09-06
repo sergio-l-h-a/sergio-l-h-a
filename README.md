@@ -27,22 +27,19 @@ Conhecimentos básicos em:
 
 📜 **Curso em Vídeo** – Formação em desenvolvimento web e fundamentos da programação
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<p align="center">
-  <a href="https://www.cursoemvideo.com/certificates" target="_blank">
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  </a>
-</p>
-| HTML  | 
+![JavaScript]
 <p align="center">
   <a href="https://www.cursoemvideo.com/certificates" target="_blank">
     <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
   </a>
 </p>
-| Python | 
+![HTML]
+<p align="center">
+  <a href="https://www.cursoemvideo.com/certificates" target="_blank">
+    <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
+  </a>
+</p>
+![Python] 
 <p align="center">
   <a href="https://www.cursoemvideo.com/certificates" target="_blank">
     <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
