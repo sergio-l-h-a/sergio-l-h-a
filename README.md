@@ -26,7 +26,8 @@ Conhecimentos básicos em:
 ## 🎓 Certificações
 
 📜 **Curso em Vídeo** – Formação em desenvolvimento web e fundamentos da programação
-##JavaScript
+👉 [Acesse a documentação oficial](https://link-da-documentacao.com)
+
 <p align="left">
 
   <a href="https://www.cursoemvideo.com/certificates" target="_blank">
