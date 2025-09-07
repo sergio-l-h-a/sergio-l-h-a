@@ -29,7 +29,9 @@ Conhecimentos básicos em:
 
 | Cursos | Certificados |
 |--------|--------------|
-|JavaScript | ![Certificado](https://www.cursoemvideo.com/certificates)
+|JavaScript | [Certificado](https://www.cursoemvideo.com/certificates)|
+|HTML | [Certificado](https://www.cursoemvideo.com/certificates)|
+|Python | [Certificado](https://www.cursoemvideo.com/certificates)|
 
 
 📜 **DIO.me** – Cursos práticos em tecnologias modernas e projetos aplicados
