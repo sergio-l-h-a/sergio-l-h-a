@@ -29,7 +29,7 @@ Conhecimentos básicos em:
 
 | Cursos | Certificados |
 |--------|--------------|
-|JavaScript | <img src="https://img.shields.io/badge/Certificado" alt="Certificado Curso em Vídeo"/>|(https://www.cursoemvideo.com/certificates)
+|JavaScript | ![Certificado](https://www.cursoemvideo.com/certificates)
 
 
 📜 **DIO.me** – Cursos práticos em tecnologias modernas e projetos aplicados
