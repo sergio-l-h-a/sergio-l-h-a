@@ -26,12 +26,12 @@ Conhecimentos básicos em:
 ## 🎓 Certificações
 
 📜 **Curso em Vídeo** – Formação em desenvolvimento web e fundamentos da programação
-👉 [Acesse a documentação oficial](https://link-da-documentacao.com)
+
 
 <p align="left">
 
   <a href="https://www.cursoemvideo.com/certificates" target="_blank">
-    <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
+    <img src="https://img.shields.io/badge/Certificado" alt="Certificado Curso em Vídeo"/>
   </a>
 </p>
 <img src="https://img.shields.io/badge/Certificado-Curso%20em%20Vídeo-blue?style=for-the-badge&logo=none" alt="Certificado Curso em Vídeo"/>
