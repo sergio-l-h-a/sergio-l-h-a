@@ -45,7 +45,7 @@ Conhecimentos básicos em:
 - [cadastro-profissional](https://github.com/sergio-l-h-a/cadastro-profissional): Sistema simples e eficiente para registrar e gerenciar informações de pessoas.
 - [meu-repositorio-de-autenticacoes](https://github.com/sergio-l-h-a/meu-repositorio-de-autenticacoes): Testes de autenticação para aplicações web.
 - [desafio-de-python-copilot](https://github.com/sergio-l-h-a/desafios-python-copilot): Desafios práticos desenvolvidos em Python com o apoio do GitHub Copilot
-- [js-developer-pokedex](https://github.com/sergio-l-h-a/js-developer-pokedex)
+- [js-developer-pokedex](https://github.com/sergio-l-h-a/js-developer-pokedex): Aprendizado em JavaScript praticando DOM, eventos e manipulação de dados
 ***
 
 ![Sergio-L-H-A GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-l-h-a&theme=tokyonight&show_icons=true)
